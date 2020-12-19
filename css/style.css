@@ -1,0 +1,339 @@
+a {
+    text-decoration: none;
+}
+
+.v-top {
+    vertical-align: top;
+}
+
+.v-middle {
+    vertical-align: middle;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+
+
+/* Logo class */
+
+.logo {
+    margin-right: 49.81px;
+}
+
+
+
+/* Index|News Body class */
+.main-page {
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+
+
+/* Index|News Header class */
+.header-cont {
+    margin-bottom: 77px;
+}
+
+
+
+
+/* Navigation colors */
+.red {
+    color: #EE4036;
+}
+
+.blue {
+    color: #3D58A6;
+}
+
+
+
+
+
+/* Navigation size|position */
+.nav-li {
+    font-weight: bold;
+    text-transform: lowercase;
+    font-family: 'BPG Nino Mtavruli';
+    margin-right: 22px;
+    font-size: 22px;
+}
+
+.nav {
+    margin-top: 7px;
+}
+
+
+
+/* Index div all container parameters */
+.l-r-blocks {
+    background-color: #F2F2F2;
+    width: 570px; 
+    height: 240px;
+    padding: 15px;
+}
+
+.left-block {
+    margin-right: 29px;
+}
+
+.container-h3 {
+    font-family: 'Roboto';
+    font-size: 22px;
+    color: #3D58A6;
+}
+
+
+.p-block {
+    font-family: 'Roboto';
+    letter-spacing: 2px;
+    line-height: 23px;
+    margin-top: 25px;
+    margin-left: 30px;
+    font-size: 20px;
+    width: 355px;
+    vertical-align: top;
+    color: #58595B;
+    
+}
+
+
+
+
+.container h2 {
+    font-family: 'Roboto';
+    margin-bottom: 30.78px;
+    font-size: 22px;
+    margin-top: 120px;
+}
+
+
+
+.img-block {
+    margin-left: 38.8px;
+    margin-top: 25px;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1170px;
+}
+
+
+
+
+
+
+
+
+/* Footer positions */
+.main-footer {
+    margin-left: 109.53px;
+    margin-top: 68px;
+}
+
+.contact-footer {
+    margin-left: 47.7px;
+    margin-top: 31.7px;
+}
+
+.news-footer {
+    margin-top: 33px;
+    margin-left: 4px;
+}
+
+
+
+
+/* Footer Divider */
+.divider-1::after {
+    content: " ";
+    height: 27px;
+	width: 2px;
+    background-color: #363E97;
+    margin-left: 35.6px;
+    margin-right: 30.19px;
+    display: inline-block;
+}
+
+
+
+
+
+
+/* News date section div class */
+.date-month {
+    font-family: 'BPG Nino Mtavruli';
+    letter-spacing: 1px;
+    margin-top: 9px;
+    font-size: 22px;
+    color: #3D58A6;
+}
+
+.date-28 {
+    width: 56px;
+    height: 56px;
+    background-color: #3D58A6;
+    color: white;
+    font-size: 48px;
+    padding-top: 10px;
+    padding-left: 5px;
+    margin-top: 52px;
+}
+
+.date-27 {
+    width: 56px;
+    height: 56px;
+    background-color: #3D58A6;
+    color: white;
+    font-size: 48px;
+    padding-top: 10px;
+    padding-left: 5px;
+    margin-top: 36px;
+
+}
+
+
+
+
+
+
+
+
+/* News h3 class */
+.section-title {
+    font-family: 'BPG Nino Mtavruli';
+    letter-spacing: 1px;
+    margin-top: 25px;
+    font-size: 20px;
+    margin-bottom: 17.5px;
+}
+
+
+
+
+
+/* News Div class */
+.div-text {
+    width: 929.02px;
+    vertical-align: top;
+    margin-left: 39px;
+}
+
+
+
+
+
+/* News paragraph class */
+.par-text {
+    line-height: 20px;
+    letter-spacing: 1px;
+    font-family: "BPG Ingiri Arial";
+    margin-bottom: 20px;
+}
+
+.p-font {
+    line-height: 20px;
+    letter-spacing: 1px;
+    font-family: "BPG Ingiri Arial";
+    font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Contact Header class */
+.contact-header {
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+/* Contact background */
+.div-back {
+    margin-top: 24.4px;
+    width: 1366px;
+    height: 570px;
+    background-color: #E6E6E6;
+}
+
+
+
+
+
+/* Contact all Info */
+.div-contact {
+    width: 270px;
+    margin: 51.5px 43.7px  420.5px 97.3px; 
+}
+
+.contact-map {
+    margin-top: 49px;
+}
+
+
+iframe {
+    border: 0px;
+}
+
+
+.map {
+	width: 874px;
+    height: 466px;
+
+}
+
+.h3-contact-title {
+    letter-spacing: 1px;
+    font-family: 'BPG Nino Mtavruli';
+    font-weight: bold;
+    font-size: 20px;
+    color: #3D58A6;
+}
+
+.a-col {
+    color: black;
+}
+
+.contact-li {
+    letter-spacing: 1px;
+    font-family: "BPG Ingiri Arial";
+    font-size: 16px;
+    margin-top: 7px;
+    
+} 
+
+.li-span {
+    color: #808080;
+
+}
+
+
+
+
+
+
+
+
+
